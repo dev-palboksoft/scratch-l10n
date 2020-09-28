@@ -502,5 +502,9 @@
     "gui.sharedMessages.pop": "pléasc",
     "gui.sharedMessages.replaceProjectWarning": "An bhfuil tú cinnte gur mhaith leat ábhar an tionscadail reatha a fhorscríobh?",
     "gui.sharedMessages.loadFromComputerTitle": "Lódáil ó do ríomhaire",
-    "gui.gui.defaultProjectTitle": "Tionscadal Scratch"
+    "gui.gui.defaultProjectTitle": "Tionscadal Scratch",
+    "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
+    "gui.extension.cubroiddcmotor.connectingMessage": "Cubroid DC blocks.",
+    "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
+    "gui.extension.cubroidproximity.connectingMessage": "Cubroid Proximity sensor blocks."
 }

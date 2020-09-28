@@ -502,5 +502,9 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Bạn có muốn thay thế nội dung của dự án hiện tại?",
     "gui.sharedMessages.loadFromComputerTitle": "Mở từ máy tính",
-    "gui.gui.defaultProjectTitle": "Dự án Scratch"
+    "gui.gui.defaultProjectTitle": "Dự án Scratch",
+    "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
+    "gui.extension.cubroiddcmotor.connectingMessage": "Cubroid DC blocks.",
+    "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
+    "gui.extension.cubroidproximity.connectingMessage": "Cubroid Proximity sensor blocks."
 }

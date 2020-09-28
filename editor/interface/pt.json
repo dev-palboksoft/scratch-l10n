@@ -502,5 +502,9 @@
     "gui.sharedMessages.pop": "Pop!",
     "gui.sharedMessages.replaceProjectWarning": "Substituir o conteúdo do projecto corrente?",
     "gui.sharedMessages.loadFromComputerTitle": "Carregar a partir do seu computador",
-    "gui.gui.defaultProjectTitle": "Projecto Scratch"
+    "gui.gui.defaultProjectTitle": "Projecto Scratch",
+    "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
+    "gui.extension.cubroiddcmotor.connectingMessage": "Cubroid DC blocks.",
+    "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
+    "gui.extension.cubroidproximity.connectingMessage": "Cubroid Proximity sensor blocks."
 }

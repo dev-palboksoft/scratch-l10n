@@ -502,5 +502,9 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Xozirgi loyihani mazmunini almashtiringmi?",
     "gui.sharedMessages.loadFromComputerTitle": "Kompyuteringizdan yuklab oling",
-    "gui.gui.defaultProjectTitle": "Scratch loyihasi"
+    "gui.gui.defaultProjectTitle": "Scratch loyihasi",
+    "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
+    "gui.extension.cubroiddcmotor.connectingMessage": "Cubroid DC blocks.",
+    "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
+    "gui.extension.cubroidproximity.connectingMessage": "Cubroid Proximity sensor blocks."
 }

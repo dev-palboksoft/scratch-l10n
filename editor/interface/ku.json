@@ -502,5 +502,9 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Bila naveroka projeya heyî were guhertin?",
     "gui.sharedMessages.loadFromComputerTitle": "Ji kombersa xwe bar bike",
-    "gui.gui.defaultProjectTitle": "Projeya Scratchê"
+    "gui.gui.defaultProjectTitle": "Projeya Scratchê",
+    "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
+    "gui.extension.cubroiddcmotor.connectingMessage": "Cubroid DC blocks.",
+    "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
+    "gui.extension.cubroidproximity.connectingMessage": "Cubroid Proximity sensor blocks."
 }

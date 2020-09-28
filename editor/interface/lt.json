@@ -502,5 +502,9 @@
     "gui.sharedMessages.pop": "pokšt",
     "gui.sharedMessages.replaceProjectWarning": "Ar nori pakeisti šio projekto turinį?",
     "gui.sharedMessages.loadFromComputerTitle": "Įkelti iš kompiuterio",
-    "gui.gui.defaultProjectTitle": "Mano projektas"
+    "gui.gui.defaultProjectTitle": "Mano projektas",
+    "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
+    "gui.extension.cubroiddcmotor.connectingMessage": "Cubroid DC blocks.",
+    "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
+    "gui.extension.cubroidproximity.connectingMessage": "Cubroid Proximity sensor blocks."
 }

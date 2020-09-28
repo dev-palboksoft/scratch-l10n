@@ -502,5 +502,9 @@
     "gui.sharedMessages.pop": "ป๊อบ",
     "gui.sharedMessages.replaceProjectWarning": "แทนที่เนื้อหาของโครงงานปัจจุบันหรือไม่?",
     "gui.sharedMessages.loadFromComputerTitle": "อัปโหลดจากคอมพิวเตอร์ของคุณ",
-    "gui.gui.defaultProjectTitle": "โครงงาน Scratch"
+    "gui.gui.defaultProjectTitle": "โครงงาน Scratch",
+    "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
+    "gui.extension.cubroiddcmotor.connectingMessage": "Cubroid DC blocks.",
+    "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
+    "gui.extension.cubroidproximity.connectingMessage": "Cubroid Proximity sensor blocks."
 }
