@@ -211,5 +211,18 @@
     "wedo2.tiltDirection.right": "dwat",
     "wedo2.tiltDirection.up": "an wo",
     "wedo2.whenDistance": "lè distans [OP] [REFERENCE]",
-    "wedo2.whenTilted": "lè l panche [TILT_DIRECTION_ANY]"
+    "wedo2.whenTilted": "lè l panche [TILT_DIRECTION_ANY]",
+    "cubroiddcmotor.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor.motoroptionmenu.left": "Left",
+    "cubroiddcmotor.motoroptionmenu.right": "Right",
+    "cubroiddcmotor01.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor01.motoroptionmenu.left": "Left",
+    "cubroiddcmotor01.motoroptionmenu.right": "Right",
+    "cubroiddcmotor02.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor02.motoroptionmenu.left": "Left",
+    "cubroiddcmotor02.motoroptionmenu.right": "Right",
+    "cubroiddcmotor.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor01.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor02.dcMotorControl": "DC Motor 2 [INDEX]",
+    "cubroidproximity.proximityControl": "Proximity sensor"
 }

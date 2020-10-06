@@ -505,6 +505,10 @@
     "gui.gui.defaultProjectTitle": "Scratch-Projekt",
     "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
     "gui.extension.cubroiddcmotor.connectingMessage": "Cubroid DC blocks.",
+    "gui.extension.cubroiddcmotor01.description": "Cubroid DC motor 1 blocks. very nice!",
+    "gui.extension.cubroiddcmotor01.connectingMessage": "Cubroid DC motor 1 blocks.",
+    "gui.extension.cubroiddcmotor02.description": "Cubroid DC motor 2 blocks. very nice!",
+    "gui.extension.cubroiddcmotor02.connectingMessage": "Cubroid DC motor 2 blocks.",
     "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
     "gui.extension.cubroidproximity.connectingMessage": "Cubroid Proximity sensor blocks."
 }

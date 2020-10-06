@@ -211,5 +211,18 @@
     "wedo2.tiltDirection.right": "오른쪽",
     "wedo2.tiltDirection.up": "위쪽",
     "wedo2.whenDistance": "거리 [OP] [REFERENCE] 일 때",
-    "wedo2.whenTilted": "[TILT_DIRECTION_ANY] 방향으로 기울일 때"
+    "wedo2.whenTilted": "[TILT_DIRECTION_ANY] 방향으로 기울일 때",
+    "cubroiddcmotor.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor.motoroptionmenu.left": "Left",
+    "cubroiddcmotor.motoroptionmenu.right": "Right",
+    "cubroiddcmotor01.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor01.motoroptionmenu.left": "Left",
+    "cubroiddcmotor01.motoroptionmenu.right": "Right",
+    "cubroiddcmotor02.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor02.motoroptionmenu.left": "Left",
+    "cubroiddcmotor02.motoroptionmenu.right": "Right",
+    "cubroiddcmotor.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor01.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor02.dcMotorControl": "DC Motor 2 [INDEX]",
+    "cubroidproximity.proximityControl": "Proximity sensor"
 }

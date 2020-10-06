@@ -211,5 +211,18 @@
     "wedo2.tiltDirection.right": "eskuina",
     "wedo2.tiltDirection.up": "gora",
     "wedo2.whenDistance": "distantzia [OP] [REFERENCE] denean",
-    "wedo2.whenTilted": "okertasuna [TILT_DIRECTION_ANY] denean"
+    "wedo2.whenTilted": "okertasuna [TILT_DIRECTION_ANY] denean",
+    "cubroiddcmotor.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor.motoroptionmenu.left": "Left",
+    "cubroiddcmotor.motoroptionmenu.right": "Right",
+    "cubroiddcmotor01.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor01.motoroptionmenu.left": "Left",
+    "cubroiddcmotor01.motoroptionmenu.right": "Right",
+    "cubroiddcmotor02.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor02.motoroptionmenu.left": "Left",
+    "cubroiddcmotor02.motoroptionmenu.right": "Right",
+    "cubroiddcmotor.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor01.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor02.dcMotorControl": "DC Motor 2 [INDEX]",
+    "cubroidproximity.proximityControl": "Proximity sensor"
 }

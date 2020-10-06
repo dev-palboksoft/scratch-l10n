@@ -211,5 +211,18 @@
     "wedo2.tiltDirection.right": "nach rechts",
     "wedo2.tiltDirection.up": "nach oben",
     "wedo2.whenDistance": "Wenn Abstand [OP] [REFERENCE]",
-    "wedo2.whenTilted": "Wenn [TILT_DIRECTION_ANY] geneigt"
+    "wedo2.whenTilted": "Wenn [TILT_DIRECTION_ANY] geneigt",
+    "cubroiddcmotor.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor.motoroptionmenu.left": "Left",
+    "cubroiddcmotor.motoroptionmenu.right": "Right",
+    "cubroiddcmotor01.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor01.motoroptionmenu.left": "Left",
+    "cubroiddcmotor01.motoroptionmenu.right": "Right",
+    "cubroiddcmotor02.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor02.motoroptionmenu.left": "Left",
+    "cubroiddcmotor02.motoroptionmenu.right": "Right",
+    "cubroiddcmotor.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor01.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor02.dcMotorControl": "DC Motor 2 [INDEX]",
+    "cubroidproximity.proximityControl": "Proximity sensor"
 }

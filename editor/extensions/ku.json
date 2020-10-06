@@ -211,5 +211,18 @@
     "wedo2.tiltDirection.right": "rast",
     "wedo2.tiltDirection.up": "jor",
     "wedo2.whenDistance": "dema ku mesafe bû [OP] [REFERENCE]",
-    "wedo2.whenTilted": "dema ku [TILT_DIRECTION_ANY] xwar bû"
+    "wedo2.whenTilted": "dema ku [TILT_DIRECTION_ANY] xwar bû",
+    "cubroiddcmotor.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor.motoroptionmenu.left": "Left",
+    "cubroiddcmotor.motoroptionmenu.right": "Right",
+    "cubroiddcmotor01.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor01.motoroptionmenu.left": "Left",
+    "cubroiddcmotor01.motoroptionmenu.right": "Right",
+    "cubroiddcmotor02.motoroptionmenu.stop": "Stop",
+    "cubroiddcmotor02.motoroptionmenu.left": "Left",
+    "cubroiddcmotor02.motoroptionmenu.right": "Right",
+    "cubroiddcmotor.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor01.dcMotorControl": "DC Motor 1 [INDEX]",
+    "cubroiddcmotor02.dcMotorControl": "DC Motor 2 [INDEX]",
+    "cubroidproximity.proximityControl": "Proximity sensor"
 }
