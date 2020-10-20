@@ -519,5 +519,11 @@
     "gui.extension.cubroidsound.connectingMessage": "connecting...",
     "gui.extension.cubroidlighttouch.name": "Cubroid light & touch sensor",
     "gui.extension.cubroidlighttouch.description": "Cubroid light touch sensor blocks. very nice!",
-    "gui.extension.cubroidlighttouch.connectingMessage": "connecting..."
+    "gui.extension.cubroidlighttouch.connectingMessage": "connecting...",
+    "gui.extension.cubroidled.name": "Cubroid LED",
+    "gui.extension.cubroidled.description": "Cubroid LED blocks. very nice!",
+    "gui.extension.cubroidled.connectingMessage": "connecting...",
+    "gui.extension.cubroidmaster.name": "Cubroid Master",
+    "gui.extension.cubroidmaster.description": "Cubroid Master blocks. very nice!",
+    "gui.extension.cubroidmaster.connectingMessage": "connecting..."
 }
