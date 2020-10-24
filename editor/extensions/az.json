@@ -225,5 +225,10 @@
     "cubroiddcmotor01.dcMotorControl": "DC Motor 1 [INDEX]",
     "cubroiddcmotor02.dcMotorControl": "DC Motor 2 [INDEX]",
     "cubroidproximity.proximityControl": "Proximity sensor",
-    "cubroidlighttouch.lightTouchControl": "Light Touch sensor"
+    "cubroidlighttouch.extensionName": "Light N Touch Block",
+    "cubroidlighttouch.whenButtonPressed": "When button Pressed",
+    "cubroidlighttouch.isButtonPressed": "Is button pressed?",
+    "cubroidlighttouch.whenBrightnessLessThan01": "when brightness < [DISTANCE]",
+    "cubroidlighttouch.whenBrightnessLessThan02": "when brightness > [DISTANCE]",
+    "cubroidlighttouch.getBrightness": "brightness"
 }

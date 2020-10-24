@@ -225,5 +225,10 @@
     "cubroiddcmotor01.dcMotorControl": "DC 모터 1번 [INDEX]",
     "cubroiddcmotor02.dcMotorControl": "DC 모터 2번 [INDEX]",
     "cubroidproximity.proximityControl": "거래센서",
-    "cubroidlighttouch.lightTouchControl": "라이트 & 터치 센서"
+    "cubroidlighttouch.extensionName": "라이트 터치 블록",
+    "cubroidlighttouch.whenButtonPressed": "버튼이 눌러졌을 때",
+    "cubroidlighttouch.isButtonPressed": "버튼이 눌러졌는가?",
+    "cubroidlighttouch.whenBrightnessLessThan01": "밝기 < [DISTANCE] 일 때",
+    "cubroidlighttouch.whenBrightnessLessThan02": "밝기 > [DISTANCE] 일 때",
+    "cubroidlighttouch.getBrightness": "빛센서 값1"
 }
