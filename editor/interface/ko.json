@@ -525,5 +525,6 @@
     "gui.extension.cubroidled.connectingMessage": "연결 중",
     "gui.extension.cubroidmaster.name": "큐브로이드 마스터 블록",
     "gui.extension.cubroidmaster.description": "큐브로이드 마스터 블록",
-    "gui.extension.cubroidmaster.connectingMessage": "연결 중"
+    "gui.extension.cubroidmaster.connectingMessage": "연결 중",
+    "gui.cubroidGroupNumber.label": "그룹 번호 설정"
 }

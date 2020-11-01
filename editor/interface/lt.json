@@ -525,5 +525,6 @@
     "gui.extension.cubroidled.connectingMessage": "connecting...",
     "gui.extension.cubroidmaster.name": "Cubroid Master",
     "gui.extension.cubroidmaster.description": "Cubroid Master blocks. very nice!",
-    "gui.extension.cubroidmaster.connectingMessage": "connecting..."
+    "gui.extension.cubroidmaster.connectingMessage": "connecting...",
+    "gui.cubroidGroupNumber.label": "Set group number"
 }
