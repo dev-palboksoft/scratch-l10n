@@ -505,11 +505,11 @@
     "gui.gui.defaultProjectTitle": "Проект Scratch",
     "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
     "gui.extension.cubroiddcmotor.connectingMessage": "connecting...",
-    "gui.extension.cubroiddcmotor01.name": "Cubroid DC motor 1",
-    "gui.extension.cubroiddcmotor01.description": "Cubroid DC motor 1 blocks. very nice!",
+    "gui.extension.cubroiddcmotor01.name": "Мотор 1",
+    "gui.extension.cubroiddcmotor01.description": "Блок, который может поворачиваться на 360 градусов",
     "gui.extension.cubroiddcmotor01.connectingMessage": "connecting...",
-    "gui.extension.cubroiddcmotor02.name": "Cubroid DC motor 2",
-    "gui.extension.cubroiddcmotor02.description": "Cubroid DC motor 2 blocks. very nice!",
+    "gui.extension.cubroiddcmotor02.name": "Мотор 2",
+    "gui.extension.cubroiddcmotor02.description": "Блок, который может поворачиваться на 360 градусов",
     "gui.extension.cubroiddcmotor02.connectingMessage": "connecting...",
     "gui.extension.cubroidproximity.name": "Cubroid Proximity sensor",
     "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
@@ -526,5 +526,10 @@
     "gui.extension.cubroidmaster.name": "Cubroid Master",
     "gui.extension.cubroidmaster.description": "Cubroid Master blocks. very nice!",
     "gui.extension.cubroidmaster.connectingMessage": "connecting...",
-    "gui.cubroidGroupNumber.label": "Set group number"
+    "gui.cubroidGroupNumber.label": "Введите номер блока",
+    "gui.cubroidGroupNumber.ok": "Ладно",
+    "gui.cubroidGroupNumber.succMsg": "Настройка номера группы блокировки завершена",
+    "gui.cubroidGroupNumber.errorMsg": "Block group number setting fail",
+    "gui.cubroidGroupNumber.guideComment": "Вы можете загрузить приложение Cubroid Manager из App Store и установить номер группы блоков.",
+    "gui.cubroidGroupNumber.help": "Помогите"
 }

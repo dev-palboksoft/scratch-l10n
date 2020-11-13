@@ -505,11 +505,11 @@
     "gui.gui.defaultProjectTitle": "Скрач пројекат",
     "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
     "gui.extension.cubroiddcmotor.connectingMessage": "connecting...",
-    "gui.extension.cubroiddcmotor01.name": "Cubroid DC motor 1",
-    "gui.extension.cubroiddcmotor01.description": "Cubroid DC motor 1 blocks. very nice!",
+    "gui.extension.cubroiddcmotor01.name": "DC Motor 1",
+    "gui.extension.cubroiddcmotor01.description": "Ima mogućnost rotacije za 360 stepeni.",
     "gui.extension.cubroiddcmotor01.connectingMessage": "connecting...",
-    "gui.extension.cubroiddcmotor02.name": "Cubroid DC motor 2",
-    "gui.extension.cubroiddcmotor02.description": "Cubroid DC motor 2 blocks. very nice!",
+    "gui.extension.cubroiddcmotor02.name": "DC Motor 2",
+    "gui.extension.cubroiddcmotor02.description": "Ima mogućnost rotacije za 360 stepeni.",
     "gui.extension.cubroiddcmotor02.connectingMessage": "connecting...",
     "gui.extension.cubroidproximity.name": "Cubroid Proximity sensor",
     "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
@@ -526,5 +526,10 @@
     "gui.extension.cubroidmaster.name": "Cubroid Master",
     "gui.extension.cubroidmaster.description": "Cubroid Master blocks. very nice!",
     "gui.extension.cubroidmaster.connectingMessage": "connecting...",
-    "gui.cubroidGroupNumber.label": "Set group number"
+    "gui.cubroidGroupNumber.label": "Unesite grupni broj bloka",
+    "gui.cubroidGroupNumber.ok": "OK",
+    "gui.cubroidGroupNumber.succMsg": "Završeno postavljanje broja blokirne grupe",
+    "gui.cubroidGroupNumber.errorMsg": "Block group number setting fail",
+    "gui.cubroidGroupNumber.guideComment": "Aplikaciju Cubroid Manager možete preuzeti iz App Store-a i postaviti broj grupe blokova.",
+    "gui.cubroidGroupNumber.help": "Pomoć"
 }

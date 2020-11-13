@@ -505,11 +505,11 @@
     "gui.gui.defaultProjectTitle": "스크래치 프로젝트",
     "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
     "gui.extension.cubroiddcmotor.connectingMessage": "연결 중",
-    "gui.extension.cubroiddcmotor01.name": "큐브로이드 1번 DC 모터",
-    "gui.extension.cubroiddcmotor01.description": "큐브로이드 1번 DC 모터",
+    "gui.extension.cubroiddcmotor01.name": "DC 모터 1번 블록",
+    "gui.extension.cubroiddcmotor01.description": "360도 회전하는 블록",
     "gui.extension.cubroiddcmotor01.connectingMessage": "연결 중",
-    "gui.extension.cubroiddcmotor02.name": "큐브로이드 2번 DC 모터",
-    "gui.extension.cubroiddcmotor02.description": "큐브로이드 2번 DC 모터",
+    "gui.extension.cubroiddcmotor02.name": "DC 모터 2번 블록",
+    "gui.extension.cubroiddcmotor02.description": "360도 회전하는 블록",
     "gui.extension.cubroiddcmotor02.connectingMessage": "연결 중",
     "gui.extension.cubroidproximity.name": "큐브로이드 거리 센서",
     "gui.extension.cubroidproximity.description": "큐브로이드 거리 센서",
@@ -526,5 +526,10 @@
     "gui.extension.cubroidmaster.name": "큐브로이드 마스터 블록",
     "gui.extension.cubroidmaster.description": "큐브로이드 마스터 블록",
     "gui.extension.cubroidmaster.connectingMessage": "연결 중",
-    "gui.cubroidGroupNumber.label": "그룹 번호 설정"
+    "gui.cubroidGroupNumber.label": "그룹 번호 설정",
+    "gui.cubroidGroupNumber.ok": "확인",
+    "gui.cubroidGroupNumber.succMsg": "블록 그룹 번호 설정 완료",
+    "gui.cubroidGroupNumber.errorMsg": "블록 그룹 번호 설정 실패",
+    "gui.cubroidGroupNumber.guideComment": "앱스토어에서 큐브로이드 매니저 앱을 다운로드하여 블록 그룹 번호를 설정할 수 있습니다.",
+    "gui.cubroidGroupNumber.help": "도움말"
 }

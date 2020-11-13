@@ -505,11 +505,11 @@
     "gui.gui.defaultProjectTitle": "Dự án Scratch",
     "gui.extension.cubroiddcmotor.description": "Cubroid DC motor blocks. very nice!",
     "gui.extension.cubroiddcmotor.connectingMessage": "connecting...",
-    "gui.extension.cubroiddcmotor01.name": "Cubroid DC motor 1",
-    "gui.extension.cubroiddcmotor01.description": "Cubroid DC motor 1 blocks. very nice!",
+    "gui.extension.cubroiddcmotor01.name": "DC Motor 1",
+    "gui.extension.cubroiddcmotor01.description": "Block that rotates 360 degree",
     "gui.extension.cubroiddcmotor01.connectingMessage": "connecting...",
-    "gui.extension.cubroiddcmotor02.name": "Cubroid DC motor 2",
-    "gui.extension.cubroiddcmotor02.description": "Cubroid DC motor 2 blocks. very nice!",
+    "gui.extension.cubroiddcmotor02.name": "DC Motor 2",
+    "gui.extension.cubroiddcmotor02.description": "Block that rotates 360 degree",
     "gui.extension.cubroiddcmotor02.connectingMessage": "connecting...",
     "gui.extension.cubroidproximity.name": "Cubroid Proximity sensor",
     "gui.extension.cubroidproximity.description": "Cubroid Proximity sensor blocks. very nice!",
@@ -526,5 +526,10 @@
     "gui.extension.cubroidmaster.name": "Cubroid Master",
     "gui.extension.cubroidmaster.description": "Cubroid Master blocks. very nice!",
     "gui.extension.cubroidmaster.connectingMessage": "connecting...",
-    "gui.cubroidGroupNumber.label": "Set group number"
+    "gui.cubroidGroupNumber.label": "Group number setting",
+    "gui.cubroidGroupNumber.ok": "OK",
+    "gui.cubroidGroupNumber.succMsg": "Block group number setting complete",
+    "gui.cubroidGroupNumber.errorMsg": "Block group number setting fail",
+    "gui.cubroidGroupNumber.guideComment": "You can download the Cubroid Manager app from the App Store and set the block group number.",
+    "gui.cubroidGroupNumber.help": "Help"
 }
