@@ -234,6 +234,7 @@
     "cubroidled.ledMatrixBlock": "Anzeige [MATRIX]",
     "cubroidled.ledWordBlock": "Anzeigetext [MATRIX]",
     "cubroidled.ledNumberBlock": "Anzeigenummer [MATRIX]",
+    "cubroidled.ledAllClearBlock": "zeige nichts an",
     "cubroidmaster.extensionName": "Master Block",
     "cubroidmaster.colorControl": "Schalten Sie das Farblicht ein [COLOR]",
     "cubroidmaster.colorOff": "Licht aus",

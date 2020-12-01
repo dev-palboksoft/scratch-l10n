@@ -234,6 +234,7 @@
     "cubroidled.ledMatrixBlock": "display [MATRIX]",
     "cubroidled.ledWordBlock": "display text [MATRIX]",
     "cubroidled.ledNumberBlock": "display number [MATRIX]",
+    "cubroidled.ledAllClearBlock": "がめんをけす",
     "cubroidmaster.extensionName": "Master Block",
     "cubroidmaster.colorControl": "turn on the color light [COLOR]",
     "cubroidmaster.colorOff": "light off",

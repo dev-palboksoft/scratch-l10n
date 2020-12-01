@@ -234,6 +234,7 @@
     "cubroidled.ledMatrixBlock": "[MATRIX] 보여주기",
     "cubroidled.ledWordBlock": "글자 [MATRIX] 보여주기",
     "cubroidled.ledNumberBlock": "숫자 [MATRIX] 보여주기",
+    "cubroidled.ledAllClearBlock": "화면 지우기",
     "cubroidmaster.extensionName": "마스터 블록",
     "cubroidmaster.colorControl": "[COLOR] 색 불빛 켜기",
     "cubroidmaster.colorOff": "불빛 끄기",

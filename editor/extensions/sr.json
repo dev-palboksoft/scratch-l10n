@@ -234,6 +234,7 @@
     "cubroidled.ledMatrixBlock": "zaslon [MATRIX]",
     "cubroidled.ledWordBlock": "prikaz teksta [MATRIX]",
     "cubroidled.ledNumberBlock": "prikaz broja [MATRIX]",
+    "cubroidled.ledAllClearBlock": "обриши екран",
     "cubroidmaster.extensionName": "Master blok",
     "cubroidmaster.colorControl": "uključite svjetlo u boji [COLOR]",
     "cubroidmaster.colorOff": "ugasi svjetlo",

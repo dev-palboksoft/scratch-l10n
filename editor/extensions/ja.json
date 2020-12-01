@@ -234,6 +234,7 @@
     "cubroidled.ledMatrixBlock": "表示 [MATRIX]",
     "cubroidled.ledWordBlock": "テキストを表示する [MATRIX]",
     "cubroidled.ledNumberBlock": "表示番号 [MATRIX]",
+    "cubroidled.ledAllClearBlock": "画面を消す",
     "cubroidmaster.extensionName": "マスターブロック",
     "cubroidmaster.colorControl": "カラーライトをオンにします [COLOR]",
     "cubroidmaster.colorOff": "消灯",

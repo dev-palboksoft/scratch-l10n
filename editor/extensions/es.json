@@ -234,6 +234,7 @@
     "cubroidled.ledMatrixBlock": "pantalla [MATRIX]",
     "cubroidled.ledWordBlock": "mostrar texto [MATRIX]",
     "cubroidled.ledNumberBlock": "número de pantalla [MATRIX]",
+    "cubroidled.ledAllClearBlock": "limpiar pantalla",
     "cubroidmaster.extensionName": "Bloque maestro",
     "cubroidmaster.colorControl": "enciende la luz de color [COLOR]",
     "cubroidmaster.colorOff": "luz apagada",

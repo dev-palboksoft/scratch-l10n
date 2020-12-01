@@ -234,6 +234,7 @@
     "cubroidled.ledMatrixBlock": "显示 [MATRIX]",
     "cubroidled.ledWordBlock": "显示文字 [MATRIX]",
     "cubroidled.ledNumberBlock": "显示编号 [MATRIX]",
+    "cubroidled.ledAllClearBlock": "清空屏幕",
     "cubroidmaster.extensionName": "Master模块",
     "cubroidmaster.colorControl": "打开彩色灯 [COLOR]",
     "cubroidmaster.colorOff": "熄灭",

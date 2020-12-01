@@ -234,6 +234,7 @@
     "cubroidled.ledMatrixBlock": "дисплей [MATRIX]",
     "cubroidled.ledWordBlock": "отображаемый текст [MATRIX]",
     "cubroidled.ledNumberBlock": "номер дисплея MATRIX]",
+    "cubroidled.ledAllClearBlock": "очистить дисплей",
     "cubroidmaster.extensionName": "Датчик цвета",
     "cubroidmaster.colorControl": "включить цветной свет [COLOR]",
     "cubroidmaster.colorOff": "выключить свет",
