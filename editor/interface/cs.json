@@ -529,7 +529,7 @@
     "gui.extension.cubroidproximity.name": "Proximity Sensor Block",
     "gui.extension.cubroidproximity.description": "A block that detects the proximity of approaching objects",
     "gui.extension.cubroidproximity.connectingMessage": "connecting",
-    "gui.extension.cubroidlighttouch.name": "Light & Touch Sensor Block",
+    "gui.extension.cubroidlighttouch.name": "Light n Touch Sensor Block",
     "gui.extension.cubroidlighttouch.description": "A block that detect the level of light. A block that detects whether the button is pressed or not",
     "gui.extension.cubroidlighttouch.connectingMessage": "connecting",
     "gui.extension.cubroidml2scratch.name": "Cubroid Machine Learning",

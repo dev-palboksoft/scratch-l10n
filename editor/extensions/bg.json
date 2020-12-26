@@ -284,7 +284,7 @@
     "cubroidproximity.extensionName": "Proximity Sensor Block",
     "cubroidproximity.proximityControl": "when obstacle detected",
     "cubroidproximity.isProximityControl": "obstacles detected?",
-    "cubroidlighttouch.extensionName": "Light & Touch Sensor Block",
+    "cubroidlighttouch.extensionName": "Light n Touch Sensor Block",
     "cubroidlighttouch.whenButtonPressed": "when button pressed",
     "cubroidlighttouch.isButtonPressed": "button pressed?",
     "cubroidlighttouch.whenBrightnessLessThan01": "when brightness < [DISTANCE]",

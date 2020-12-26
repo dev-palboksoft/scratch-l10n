@@ -284,7 +284,7 @@
     "cubroidproximity.extensionName": "Annäherungssensor-Block",
     "cubroidproximity.proximityControl": "Wenn ein Hindernis erkannt wird",
     "cubroidproximity.isProximityControl": "Werden Hindernisse erkannt?",
-    "cubroidlighttouch.extensionName": "Light & Touch Sensor Block",
+    "cubroidlighttouch.extensionName": "Light n Touch Sensor Block",
     "cubroidlighttouch.whenButtonPressed": "Wenn die Taste gedrückt wird",
     "cubroidlighttouch.isButtonPressed": "Wurde der Knopf gedrückt?",
     "cubroidlighttouch.whenBrightnessLessThan01": "Wenn die Helligkeit des Lichtsensors < [DISTANCE]",
